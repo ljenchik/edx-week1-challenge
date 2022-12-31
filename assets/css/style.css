@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header styles */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +25,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Navbar styles */
 
 nav {
     padding-top: 15px;
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+
+/* Hero image background styles */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,12 +65,16 @@ p {
     background-position: center;
 }
 
+
+/* Section styles */
 section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+
+/* Article styles */
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,6 +103,7 @@ article h2 {
     font-size: 36px;
 }
 
+/* Sidebar styles */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +130,9 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
+
+
+/* Footer styles */
 
 footer {
     padding: 30px;
